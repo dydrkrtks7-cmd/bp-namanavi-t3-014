@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="16" fill="hsl(121, 70%, 45%)" opacity="0.1"/><circle cx="32" cy="32" r="16" fill="hsl(121, 70%, 45%)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>여수 밤바다 코스</title>
+  <rect width="64" height="64" rx="16" fill="hsl(281 43% 29%)"/>
+  <g transform="rotate(90 32 32)"><circle cx="25" cy="32" r="13" fill="none" stroke="hsl(281 24% 96%)" stroke-width="7"/><circle cx="39" cy="32" r="13" fill="none" stroke="hsl(59 68% 60%)" stroke-width="7"/></g>
+</svg>
